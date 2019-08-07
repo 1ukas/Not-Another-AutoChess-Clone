@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerPlayRow
+  - EnemyPlayRow
+  - PlayerHeroRow
+  - EnemyHeroRow
+  - Map
+  - PlayerTile
+  - EnemyTile
+  - PlayerBankTile
+  - EnemyBankTile
+  - Hero
+  - HeroBuyButton
+  - EnemyHero
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - WalkableHeroTile
+  - BankHeroTile
+  - Hero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
